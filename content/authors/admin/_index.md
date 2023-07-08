@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Wenhao Ding 丁文浩
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Wenhao
+last_name: Ding
 
 # Status emoji
 status:
@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. student in the Department of Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: University of Tokyo
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -33,15 +33,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Aerospace Engineering
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.S. in Air Transportation Engineering
+      institution: Nanjing University of Aeronautics and Astronautics
+      year: 2023
+    - course: B.Eng in Air Transportation Engineering
+      institution: Nanjing University of Aeronautics and Astronautics
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. student at the University of Tokyo under the supervision of Prof. Eri Itoh.
+My research interests are machine learning.
+Please feel free to contact me if you are interested in collaborating with me.
 {style="text-align: justify;"}
